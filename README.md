@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RU-Safe
 RU Hacks 2022 submission
 
@@ -60,3 +61,6 @@ Few spam links kept for reference :-
 * medianewpage.com
 * muzicplay.com
 * newtabtv.com
+=======
+# Security-Chrome-Extension
+>>>>>>> 9c52e908cef4cc6dcab74501496a0c776f198482
